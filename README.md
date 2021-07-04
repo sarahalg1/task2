@@ -20,5 +20,12 @@ if the user click on stop, the letter S will be added
 to the database in Stop column , 
 after that it will be selected from the database and printed in the php page.
 
+# CHATBOT.jbg
+example in runing the chatbot in the website.
+
+
+# skill-تحدث.JSON
+
+the chatbot ask the user for the robot direction and steps.
 
 
